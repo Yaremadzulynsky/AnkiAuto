@@ -1,0 +1,8 @@
+extractor.ts
+main.ts
+main2.ts
+Sort2.ts
+SortDefs.ts
+node_modules/
+bin/    
+.DS_Store
