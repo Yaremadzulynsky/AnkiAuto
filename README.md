@@ -106,8 +106,8 @@ Ensure that you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Yaremadzulynsky/AnkiAuto
+   cd AnkiAuto
    ```
 
 2. **Install Dependencies:**
